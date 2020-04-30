@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iroise Dumontheil | Dr Daniel Yon</title>
+    <link>/authors/iroise-dumontheil/</link>
+      <atom:link href="/authors/iroise-dumontheil/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iroise Dumontheil</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/1hand.jpg</url>
+      <title>Iroise Dumontheil</title>
+      <link>/authors/iroise-dumontheil/</link>
+    </image>
+    
+    <item>
+      <title>Association between action kinematics and emotion perception across adolescence</title>
+      <link>/publication/actionadol/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/actionadol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our own action kinematics predict the perceived affective states of others</title>
+      <link>/publication/kinematicsaffective/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kinematicsaffective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

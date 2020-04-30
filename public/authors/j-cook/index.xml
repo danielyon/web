@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Cook | Academic</title>
+    <link>/authors/j-cook/</link>
+      <atom:link href="/authors/j-cook/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Cook</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J Cook</title>
+      <link>/authors/j-cook/</link>
+    </image>
+    
+    <item>
+      <title>Our own action kinematics predict the perceived affective states of others</title>
+      <link>/publication/rosy/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/rosy/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

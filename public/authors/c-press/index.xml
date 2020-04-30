@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Press | Academic</title>
+    <link>/authors/c-press/</link>
+      <atom:link href="/authors/c-press/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Press</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>C Press</title>
+      <link>/authors/c-press/</link>
+    </image>
+    
+    <item>
+      <title>Action biases perceptual decisions toward expected outcomes</title>
+      <link>/publication/yon_etal/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/yon_etal/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atypical emotion recognition from bodies is associated with perceptual difficulties in healthy ageing</title>
+      <link>/publication/jamesjephpp/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jamesjephpp/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The predictive brain as a stubborn scientist</title>
+      <link>/publication/stubborntics/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/stubborntics/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Action sharpens sensory representations of expected outcomes</title>
+      <link>/publication/natcommssharpening/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/natcommssharpening/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensory predictions during action support perception of imitative reactions across suprasecond delays</title>
+      <link>/publication/cognition/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/cognition/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our own action kinematics predict the perceived affective states of others</title>
+      <link>/publication/rosy/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/rosy/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicted action consequences are perceptually facilitated before cancellation</title>
+      <link>/publication/predictfaciljephpp/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/predictfaciljephpp/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time on your hands: Perceived duration of sensory events is biased towards concurrent actions</title>
+      <link>/publication/timehandsjepg/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/timehandsjepg/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Back to the future: Synaesthesia could be due to associative learning</title>
+      <link>/publication/synaesthesia/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/synaesthesia/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

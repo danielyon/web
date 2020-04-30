@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Murphy | Academic</title>
+    <link>/authors/j-murphy/</link>
+      <atom:link href="/authors/j-murphy/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Murphy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>J Murphy</title>
+      <link>/authors/j-murphy/</link>
+    </image>
+    
+    <item>
+      <title>Atypical emotion recognition from bodies is associated with perceptual difficulties in healthy ageing</title>
+      <link>/publication/jamesjephpp/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/jamesjephpp/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
