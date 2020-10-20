@@ -1,37 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Dr Daniel Yon</title>
+    <title>Authors on Dr Daniel Yon</title>
     <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/1hand.jpg</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
+    <description>Recent content in Authors on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>**Daniel Yon**</title>
       <link>/authors/daniel-yon/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/daniel-yon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cecilia Heyes</title>
+      <link>/authors/cecilia-heyes/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cecilia-heyes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clare Press</title>
       <link>/authors/clare-press/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/clare-press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carl Bunce</title>
+      <link>/authors/carl-bunce/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/carl-bunce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Thomas</title>
+      <link>/authors/emily-thomas/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/emily-thomas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Floris de Lange</title>
       <link>/authors/floris-de-lange/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/floris-de-lange/</guid>
       <description></description>
     </item>
@@ -39,7 +69,8 @@
     <item>
       <title>Martin Eimer</title>
       <link>/authors/martin-eimer/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/martin-eimer/</guid>
       <description></description>
     </item>
@@ -47,23 +78,17 @@
     <item>
       <title>Vanessa Zainzinger</title>
       <link>/authors/vanessa-zainzinger/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/vanessa-zainzinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emily Thomas</title>
-      <link>/authors/emily-thomas/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/emily-thomas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peter Kok</title>
       <link>/authors/peter-kok/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/peter-kok/</guid>
       <description></description>
     </item>
@@ -71,7 +96,8 @@
     <item>
       <title>Iroise Dumontheil</title>
       <link>/authors/iroise-dumontheil/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/iroise-dumontheil/</guid>
       <description></description>
     </item>
@@ -79,48 +105,9 @@
     <item>
       <title>Rosanna Edey</title>
       <link>/authors/rosanna-edey/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>/authors/rosanna-edey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cecilia Heyes</title>
-      <link>/authors/cecilia-heyes/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cecilia-heyes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carl Bunce</title>
-      <link>/authors/carl-bunce/</link>
-      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/carl-bunce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geoff Bird</title>
-      <link>/authors/geoff-bird/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/geoff-bird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>James Chard</title>
-      <link>/authors/james-chard/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/james-chard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jennifer Murphy</title>
-      <link>/authors/jennifer-murphy/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jennifer-murphy/</guid>
       <description></description>
     </item>
     
@@ -128,17 +115,46 @@
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Lecturer in Psychology at &lt;a href=&#34;https://twitter.com/goldsmithspsych&#34;&gt; Goldsmiths, University of London&lt;/a&gt;. Before that I was a researcher funded by the Leverhulme Trust (2017-19) and PhD student funded by the ESRC (2014-17) at &lt;a href=&#34;https://twitter.com/bbkpsychology&#34;&gt;Birkbeck, University of London&lt;/a&gt;, where I remain an Honorary Research Fellow. Research in our lab uses a combination of techniques from experimental psychology and cognitive neuroscience to study  how our brains build models of ourselves and the world around us, and how these models &lt;a href=&#34;https://aeon.co/essays/how-our-brain-sculpts-experience-in-line-with-our-expectations&#34;&gt;shape our perceptions, actions and decisions&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I am lucky to answer these questions with an exceptional set of students, colleagues and collaborators, and on this website you can see examples of our work. If you are interested in learning more about what we do, working with us or joining the group for a PhD, postdoc or research placement please feel free to &lt;a href=mailto:d.yon@gold.ac.uk&gt; get in touch.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;I am a Lecturer in Psychology  at &lt;!-- raw HTML omitted --&gt;Goldsmiths, University of London &lt;!-- raw HTML omitted --&gt;. Before that I was researcher funded by the Leverhulme Trust (2018-2019) and a PhD student funded by the ESRC (2014-2018) at &lt;!-- raw HTML omitted --&gt;Birkbeck, University of London&lt;!-- raw HTML omitted --&gt;, where I remain an Honorary Research Fellow. Research in our lab uses a combination of techniques from experimental psychology and cognitive neuroscience to study how our brains build models of ourselves and the world around us, and how &lt;!-- raw HTML omitted --&gt;these models shape our perceptions, actions and decisions&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;p&gt;I am lucky to work with an exceptional set of students, colleagues and collaborators, and on this website you can see some examples of our work. If you are interested in learning more about what we do, working with us or would lke to join the group for a PhD, postdoc or research placement please &lt;!-- raw HTML omitted --&gt;feel free to get in touch.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;I am also the early career committee member for the UK&amp;rsquo;s &lt;!-- raw HTML omitted --&gt;Experimental Psychology Society&lt;!-- raw HTML omitted --&gt;, and am happy to hear from early career researchers who&amp;rsquo;d like to discuss how &lt;!-- raw HTML omitted --&gt;the community can support you and your work&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Geoff Bird</title>
+      <link>/authors/geoff-bird/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/geoff-bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Chard</title>
+      <link>/authors/james-chard/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/james-chard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Murphy</title>
+      <link>/authors/jennifer-murphy/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jennifer-murphy/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Sam Gilbert</title>
       <link>/authors/sam-gilbert/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/sam-gilbert/</guid>
       <description></description>
     </item>
@@ -147,15 +163,17 @@
       <title>Jennifer Cook</title>
       <link>/authors/jennifer-cook/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/jennifer-cook/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Richard Ivry</title>
-      <link>/authors/richard-ivry/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/richard-ivry/</guid>
+      <title>Rich Ivry</title>
+      <link>/authors/rich-ivry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rich-ivry/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geoff Bird | Dr Daniel Yon</title>
+    <title>Geoff Bird on Dr Daniel Yon</title>
     <link>/authors/geoff-bird/</link>
-      <atom:link href="/authors/geoff-bird/index.xml" rel="self" type="application/rss+xml" />
-    <description>Geoff Bird</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/1hand.jpg</url>
-      <title>Geoff Bird</title>
-      <link>/authors/geoff-bird/</link>
-    </image>
+    <description>Recent content in Geoff Bird on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/geoff-bird/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Atypical emotion recognition from bodies is associated with perceptual difficulties in healthy aging</title>
-      <link>/publication/atypicalaging_james/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/atypicalaging_james/</guid>
+      <link>/publication/bodiesaging/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bodiesaging/</guid>
       <description></description>
     </item>
     

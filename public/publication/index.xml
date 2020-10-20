@@ -1,78 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Dr Daniel Yon</title>
+    <title>Publications on Dr Daniel Yon</title>
     <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/1hand.jpg</url>
-      <title>Publications</title>
-      <link>/publication/</link>
-    </image>
+    <description>Recent content in Publications on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Action biases perceptual decisions toward expected outcomes</title>
-      <link>/publication/actiondecision/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/actiondecision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Action enhances predicted touch</title>
-      <link>/publication/actiontouch/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/actiontouch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to perceive and perceiving to learn</title>
-      <link>/publication/perceptparadoxreply/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/perceptparadoxreply/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Association between action kinematics and emotion perception across adolescence</title>
-      <link>/publication/actionadol/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/actionadol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The perceptual prediction paradox</title>
-      <link>/publication/perceptparadox/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/perceptparadox/</guid>
+      <title>Understanding uncertainty - Prediction in perception and learning</title>
+      <link>/publication/uncertaintycurrbio/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/uncertaintycurrbio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beliefs and desires in the predictive brain</title>
       <link>/publication/beliefsdesires/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>/publication/beliefsdesires/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Illusions of control without delusions of grandeur</title>
-      <link>/publication/illusionscontrol/</link>
-      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/illusionscontrol/</guid>
+      <link>/publication/illusionsofcontrol/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/illusionsofcontrol/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Perceptual prediction - Rapidly making sense of a noisy world</title>
-      <link>/publication/currbiodispatch/</link>
+      <title>Action biases perceptual decisions toward expected outcomes</title>
+      <link>/publication/actionbiasesperception/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionbiasesperception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action enhances predicted touch</title>
+      <link>/publication/actionenhancestouch/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionenhancestouch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valuing early career psychologists</title>
+      <link>/publication/valuingecrs/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/valuingecrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to perceive and perceiving to learn</title>
+      <link>/publication/learn2perceive/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learn2perceive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between action kinematics and emotion perception across adolescence</title>
+      <link>/publication/rosyadol/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/rosyadol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Perceptual Prediction Paradox</title>
+      <link>/publication/perceptparadox/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/perceptparadox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual prediction - rapidly making sense of a noisy world</title>
+      <link>/publication/currbio/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/currbiodispatch/</guid>
+      
+      <guid>/publication/currbio/</guid>
       <description></description>
     </item>
     
@@ -80,71 +106,80 @@
       <title>How our brain sculpts experience in line with our expectations</title>
       <link>/publication/aeon/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>/publication/aeon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atypical emotion recognition from bodies is associated with perceptual difficulties in healthy aging</title>
-      <link>/publication/atypicalaging_james/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/atypicalaging_james/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The predictive brain as a stubborn scientist</title>
       <link>/publication/stubbornscientist/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/publication/stubbornscientist/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Atypical emotion recognition from bodies is associated with perceptual difficulties in healthy aging</title>
+      <link>/publication/bodiesaging/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bodiesaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Action sharpens sensory representations of expected outcomes</title>
-      <link>/publication/actionsharpens/</link>
-      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/actionsharpens/</guid>
+      <link>/publication/naturecomms/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/naturecomms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensory predictions during action support perception of imitative reactions across suprasecond delays</title>
-      <link>/publication/predictiondelay/</link>
+      <link>/publication/cognition/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/predictiondelay/</guid>
+      
+      <guid>/publication/cognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Our own action kinematics predict the perceived affective states of others</title>
-      <link>/publication/kinematicsaffective/</link>
+      <link>/publication/eibs/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/kinematicsaffective/</guid>
+      
+      <guid>/publication/eibs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predicted action consequences are perceptually facilitated before cancellation</title>
+      <title>Predicted action consequences are perceptually facilitated before cancellation actions</title>
       <link>/publication/facilcancel/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
       <guid>/publication/facilcancel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Time on your hands - Perceived duration of sensory events is biased toward concurrent actions</title>
+      <title>Time on your hands - perceived duration of sensory events is biased toward concurrent actions</title>
       <link>/publication/timeonyourhands/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/publication/timeonyourhands/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Back to the future - Synaesthesia could be due to associative learning</title>
-      <link>/publication/backtofuture/</link>
-      <pubDate>Mon, 07 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/backtofuture/</guid>
+      <title>Back to the future - synaesthesia could be due to associative learning</title>
+      <link>/publication/synaesthesia/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/synaesthesia/</guid>
       <description></description>
     </item>
     

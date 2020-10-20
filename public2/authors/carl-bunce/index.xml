@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carl Bunce | Dr Daniel Yon</title>
+    <link>/authors/carl-bunce/</link>
+      <atom:link href="/authors/carl-bunce/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carl Bunce</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/1hand.jpg</url>
+      <title>Carl Bunce</title>
+      <link>/authors/carl-bunce/</link>
+    </image>
+    
+    <item>
+      <title>Illusions of control without delusions of grandeur</title>
+      <link>/publication/illusionscontrol/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/illusionscontrol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanessa Zainzinger | Dr Daniel Yon</title>
+    <link>/authors/vanessa-zainzinger/</link>
+      <atom:link href="/authors/vanessa-zainzinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vanessa Zainzinger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/1hand.jpg</url>
+      <title>Vanessa Zainzinger</title>
+      <link>/authors/vanessa-zainzinger/</link>
+    </image>
+    
+    <item>
+      <title>Action biases perceptual decisions toward expected outcomes</title>
+      <link>/publication/actiondecision/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/actiondecision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

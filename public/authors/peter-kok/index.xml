@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peter Kok | Dr Daniel Yon</title>
+    <title>Peter Kok on Dr Daniel Yon</title>
     <link>/authors/peter-kok/</link>
-      <atom:link href="/authors/peter-kok/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peter Kok</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/1hand.jpg</url>
-      <title>Peter Kok</title>
-      <link>/authors/peter-kok/</link>
-    </image>
+    <description>Recent content in Peter Kok on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/peter-kok/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Learning to perceive and perceiving to learn</title>
-      <link>/publication/perceptparadoxreply/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/perceptparadoxreply/</guid>
+      <link>/publication/learn2perceive/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/learn2perceive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The perceptual prediction paradox</title>
+      <title>The Perceptual Prediction Paradox</title>
       <link>/publication/perceptparadox/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
       <guid>/publication/perceptparadox/</guid>
       <description></description>
     </item>

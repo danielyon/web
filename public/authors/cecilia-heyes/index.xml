@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cecilia Heyes | Dr Daniel Yon</title>
+    <title>Cecilia Heyes on Dr Daniel Yon</title>
     <link>/authors/cecilia-heyes/</link>
-      <atom:link href="/authors/cecilia-heyes/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cecilia Heyes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/1hand.jpg</url>
-      <title>Cecilia Heyes</title>
-      <link>/authors/cecilia-heyes/</link>
-    </image>
+    <description>Recent content in Cecilia Heyes on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/cecilia-heyes/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Beliefs and desires in the predictive brain</title>
       <link>/publication/beliefsdesires/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>/publication/beliefsdesires/</guid>
       <description></description>
     </item>

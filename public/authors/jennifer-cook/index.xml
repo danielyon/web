@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jennifer Cook | Dr Daniel Yon</title>
+    <title>Jennifer Cook on Dr Daniel Yon</title>
     <link>/authors/jennifer-cook/</link>
-      <atom:link href="/authors/jennifer-cook/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jennifer Cook</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/1hand.jpg</url>
-      <title>Jennifer Cook</title>
-      <link>/authors/jennifer-cook/</link>
-    </image>
+    <description>Recent content in Jennifer Cook on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/jennifer-cook/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Our own action kinematics predict the perceived affective states of others</title>
-      <link>/publication/kinematicsaffective/</link>
+      <link>/publication/eibs/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/kinematicsaffective/</guid>
+      
+      <guid>/publication/eibs/</guid>
       <description></description>
     </item>
     
