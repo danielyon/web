@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>/publication/uncertaintycurrbio/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
@@ -59,6 +54,11 @@
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/uncertaintycurrbio/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
   
