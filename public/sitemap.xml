@@ -29,37 +29,92 @@
   
   <url>
     <loc>/authors/daniel-yon/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/uncertaintycurrbio/</loc>
-    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/action/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/awareness/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/actionmetacognition/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/higher-order-inference/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metacognition/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prediction/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agency/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/control/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/psyche/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-brain/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,7 +133,32 @@
   </url>
   
   <url>
+    <loc>/tags/cognition/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/perception/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/predictive-processing/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/carl-bunce/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/delusion/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illusion/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,6 +178,16 @@
   </url>
   
   <url>
+    <loc>/tags/attention/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cancellation/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/emily-thomas/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -109,6 +199,11 @@
   
   <url>
     <loc>/authors/martin-eimer/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/modelling/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -145,6 +240,16 @@
   <url>
     <loc>/authors/rosanna-edey/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/inference/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/learning/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

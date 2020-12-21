@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;</copyright>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/daniel-yon/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>Understanding uncertainty - prediction in perception and learning</title>
       <link>/publication/uncertaintycurrbio/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/publication/uncertaintycurrbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced metacognition for unexpected action outcomes</title>
+      <link>/publication/actionmetacognition/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionmetacognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Its not neccesarily deluded to feel in control when you are not</title>
+      <link>/publication/psyche/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/psyche/</guid>
       <description></description>
     </item>
     
