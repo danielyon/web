@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press and Yon on Daniel Yon</title>
+    <link>/authors/press-and-yon/</link>
+    <description>Recent content in Press and Yon on Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/press-and-yon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perceptual prediction - rapidly making sense of a noisy world</title>
+      <link>/publication/currbio/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/currbio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
