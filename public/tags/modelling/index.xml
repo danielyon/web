@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>modelling on Dr Daniel Yon</title>
+    <link>/tags/modelling/</link>
+    <description>Recent content in modelling on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/modelling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Action biases perceptual decisions toward expected outcomes</title>
+      <link>/publication/actionbiasesperception/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionbiasesperception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

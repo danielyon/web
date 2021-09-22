@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Floris de Lange on Dr Daniel Yon</title>
+    <link>/authors/floris-de-lange/</link>
+    <description>Recent content in Floris de Lange on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/floris-de-lange/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Action biases perceptual decisions toward expected outcomes</title>
+      <link>/publication/actionbiasesperception/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionbiasesperception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action enhances predicted touch</title>
+      <link>/publication/actionenhancestouch/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionenhancestouch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The predictive brain as a stubborn scientist</title>
+      <link>/publication/stubbornscientist/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/stubbornscientist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action sharpens sensory representations of expected outcomes</title>
+      <link>/publication/naturecomms/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/naturecomms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

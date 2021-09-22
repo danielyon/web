@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian on Dr Daniel Yon</title>
+    <link>/tags/bayesian/</link>
+    <description>Recent content in Bayesian on Dr Daniel Yon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;</copyright>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enhanced metacognition for unexpected action outcomes</title>
+      <link>/publication/actionmetacognition/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionmetacognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action biases perceptual decisions toward expected outcomes</title>
+      <link>/publication/actionbiasesperception/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/actionbiasesperception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Perceptual Prediction Paradox</title>
+      <link>/publication/perceptparadox/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/perceptparadox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

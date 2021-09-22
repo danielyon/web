@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-yon/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-frith/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/precisionimprecision/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/uncertaintycurrbio/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/action/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/awareness/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/actionmetacognition/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/higher-order-inference/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metacognition/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prediction/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/agency/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/control/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/psyche/</loc>
+    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-brain/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/beliefsdesires/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cecilia-heyes/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/clare-press/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cognition/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/perception/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/predictive-processing/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/carl-bunce/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/delusion/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/illusion/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/illusionsofcontrol/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/actionbiasesperception/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/actionenhancestouch/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/attention/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cancellation/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-thomas/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/floris-de-lange/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-eimer/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/modelling/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/valuingecrs/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vanessa-zainzinger/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/learn2perceive/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-kok/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rosyadol/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/iroise-dumontheil/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rosanna-edey/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/inference/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/learning/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/perceptparadox/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/makingsense/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aeon/</loc>
+    <lastmod>2019-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/stubbornscientist/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bodiesaging/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/geoff-bird/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-chard/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jennifer-murphy/</loc>
+    <lastmod>2019-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/naturecomms/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sam-gilbert/</loc>
+    <lastmod>2018-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cognition/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jennifer-cook/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/eibs/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/facilcancel/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rich-ivry/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/timeonyourhands/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/synaesthesia/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/_emilythomas/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+</urlset>
